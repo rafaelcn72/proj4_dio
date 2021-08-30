@@ -1,3 +1,9 @@
+<h3 align="center">
+	Construindo sexy APIs usando arquitetura serverless.
+</h3>
+<p align="center">
+Projeto "Construindo sexy APIs usando arquitetura serverless" elaborado no Bootcamp SPTech Desenvolvimento Fullstack - Digital Innovation One. Criado a partir do Webinar do Dev Bruno Carneiro.</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
